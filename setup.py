@@ -21,7 +21,7 @@ setup(
     name='mlroject',
     version='0.0.1',
     author='David',
-    author_email='davidtiffeneau@live.fr'
+    author_email='davidtiffeneau@live.fr',
     packages=find_packages(),
     install_requires=get_requirements('requirements.txt')
 )
